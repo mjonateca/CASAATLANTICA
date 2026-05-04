@@ -1,15 +1,15 @@
 export const images = {
   hero: {
     src: '/images/acantilados-casa-costa.jpg',
-    alt: 'Casa Atlántica Mariña sobre los acantilados de la costa lucense frente a la playa',
+    alt: 'La casa del Mar sobre los acantilados de la costa lucense frente a la playa',
   },
   cta: {
     src: '/images/cta-atardecer-atlantico.jpg',
-    alt: 'Sol cayendo sobre la costa atlántica frente a Casa Atlántica Mariña',
+    alt: 'Sol cayendo sobre la costa atlántica frente a La casa del Mar',
   },
   seaView: {
     src: '/images/vistas-mar-playa.jpg',
-    alt: 'Vistas directas al Atlántico y a la playa desde Casa Atlántica Mariña',
+    alt: 'Vistas directas al Atlántico y a la playa desde La casa del Mar',
   },
   urbanizationView: {
     src: '/images/vistas-playa-urbanizacion.jpg',
@@ -29,7 +29,7 @@ export const images = {
   },
   kitchenDining: {
     src: '/images/cocina-comedor.jpg',
-    alt: 'Cocina integrada y comedor preparado en Casa Atlántica Mariña',
+    alt: 'Cocina integrada y comedor preparado en La casa del Mar',
   },
   mainBedroom: {
     src: '/images/dormitorio-principal.jpg',
@@ -52,10 +52,10 @@ export const images = {
 export const contactEmail = 'javiergarridonovoa@gmail.com';
 
 export const contactMailto = `mailto:${contactEmail}?subject=${encodeURIComponent(
-  'Solicitud de información - Casa Atlántica Mariña',
+  'Solicitud de información - La casa del Mar',
 )}&body=${encodeURIComponent(`Hola Javier,
 
-Me gustaría solicitar información sobre Casa Atlántica Mariña.
+Me gustaría solicitar información sobre La casa del Mar.
 
 Fechas aproximadas:
 Tipo de estancia: semana / quincena / mes completo
