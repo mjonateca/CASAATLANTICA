@@ -40,7 +40,7 @@ export const images = {
     alt: 'Dormitorio secundario con cama nido y luz natural',
   },
   cliffs: {
-    src: '/images/acantilados-casa-costa.jpg',
+  src: "/images/playacatedralesnueva.jpeg"
     alt: 'Acantilados de la costa lucense junto a la urbanización',
   },
   beachUrbanization: {
