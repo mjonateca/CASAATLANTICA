@@ -74,7 +74,7 @@ export const navItems = [
 
 export const homeFeatures = [
   '2 habitaciones',
-  '3 baños',
+  '2 baños',
   'Salón amplio',
   'Cocina integrada',
   'Terraza frente al mar',
