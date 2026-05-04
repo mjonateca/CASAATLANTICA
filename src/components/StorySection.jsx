@@ -8,7 +8,7 @@ export default function StorySection() {
     <section className="section-shell py-24 sm:py-32">
       <div className="grid items-center gap-12 lg:grid-cols-[0.9fr_1.1fr]">
         <div className="relative order-2 lg:order-1">
-          <ImageCard image={images.terrace} imgClassName="aspect-[4/5] sm:aspect-[5/4] lg:aspect-[4/5]" />
+          <ImageCard image={images.urbanizationView} imgClassName="aspect-[4/5] sm:aspect-[5/4] lg:aspect-[4/5]" />
           <Reveal
             delay={0.18}
             className="glass absolute -bottom-8 left-5 max-w-xs rounded-[1.5rem] p-5 shadow-lift sm:left-auto sm:right-8"
