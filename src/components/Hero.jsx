@@ -22,7 +22,7 @@ export default function Hero() {
               Casa Cantábrica Mariña · Mariña Lucense
             </p>
             <h1 className="font-serif text-6xl font-semibold leading-[0.9] tracking-[-0.055em] sm:text-7xl lg:text-8xl">
-              Tu refugio frente al Atlántico
+              Tu refugio frente al Cantábrico
             </h1>
             <p className="mt-7 max-w-2xl text-lg leading-8 text-white/82 sm:text-xl">
               Una casa junto al mar en la Mariña Lucense, a pocos pasos de la Playa de las Catedrales.
