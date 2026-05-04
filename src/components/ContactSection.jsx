@@ -22,7 +22,7 @@ export default function ContactSection() {
         </div>
         <Reveal>
           <form className="grid gap-4" action={`https://formsubmit.co/${contactEmail}`} method="POST">
-            <input type="hidden" name="_subject" value="Nueva solicitud - Casa Atlántica Mariña" />
+            <input type="hidden" name="_subject" value="Nueva solicitud - Casa Cantábrica Mariña" />
             <input type="hidden" name="_template" value="table" />
             <input type="hidden" name="_captcha" value="false" />
             <input type="text" name="_honey" className="hidden" tabIndex="-1" autoComplete="off" />
