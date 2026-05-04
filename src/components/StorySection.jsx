@@ -22,7 +22,7 @@ export default function StorySection() {
         <div className="order-1 lg:order-2">
           <SectionTitle eyebrow="La historia" title="Despertar con el sonido del mar">
             <p>
-              En plena costa lucense, donde Galicia se encuentra con el Atlántico, Casa Atlántica Mariña ofrece
+              En plena costa lucense, donde Galicia se encuentra con el Atlántico, Casa Cantábrica Mariña ofrece
               una estancia tranquila, luminosa y profundamente conectada con el paisaje.
             </p>
             <p className="mt-4">
