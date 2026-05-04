@@ -5,7 +5,7 @@ import SectionTitle from './SectionTitle.jsx';
 
 const experiences = [
   {
-    title: 'Mañanas lentas frente al océano',
+    title: 'Mañanas lentas frente al mar',
     text: 'Empieza el día con la luz cántabra, el sonido del mar y la calma de una casa pensada para desconectar.',
     image: images.seaView,
   },
