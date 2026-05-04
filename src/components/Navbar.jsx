@@ -29,7 +29,7 @@ export default function Navbar() {
           }`}
           onClick={() => setOpen(false)}
         >
-          Casa Atlántica Mariña
+          Casa Cantábrica Mariña
         </a>
         <div className="hidden items-center gap-7 lg:flex">
           {navItems.map((item) => (
