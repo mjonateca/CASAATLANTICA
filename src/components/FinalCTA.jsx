@@ -10,9 +10,9 @@ export default function FinalCTA() {
           <div className="absolute inset-0 bg-night/58" />
           <div className="absolute inset-x-0 bottom-0 h-1/2 bg-gradient-to-t from-night/86 to-transparent" />
           <div className="relative mx-auto max-w-3xl">
-            <p className="text-xs font-bold uppercase tracking-[0.28em] text-sand">Casa Atlántica Mariña</p>
+            <p className="text-xs font-bold uppercase tracking-[0.28em] text-sand">Casa Cantábrica Mariña</p>
             <h2 className="mt-5 font-serif text-5xl font-semibold leading-[0.92] tracking-[-0.04em] sm:text-7xl">
-              Reserva unos días frente al Atlántico
+              Reserva unos días frente al Cantábrico
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-white/78">
               Un lugar para respirar, descansar y mirar al mar sin prisa.
