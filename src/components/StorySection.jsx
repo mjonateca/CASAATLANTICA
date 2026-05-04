@@ -27,7 +27,7 @@ export default function StorySection() {
             </p>
             <p className="mt-4">
               Un lugar para bajar el ritmo, caminar junto a los acantilados, disfrutar de la brisa marina y vivir unos
-              días con el océano como protagonista.
+              días con el mar como protagonista.
             </p>
           </SectionTitle>
         </div>
