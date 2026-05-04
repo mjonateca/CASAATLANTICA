@@ -5,7 +5,7 @@ import SectionTitle from './SectionTitle.jsx';
 const options = [
   {
     title: 'Semana',
-    text: 'Una escapada junto al Atlántico para desconectar, descansar y disfrutar de la costa lucense.',
+    text: 'Una escapada junto al Cantábrico para desconectar, descansar y disfrutar de la costa lucense.',
   },
   {
     title: 'Quincena',
