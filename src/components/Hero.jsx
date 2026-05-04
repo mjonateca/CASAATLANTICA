@@ -19,7 +19,7 @@ export default function Hero() {
             className="max-w-4xl"
           >
             <p className="mb-5 text-sm font-bold uppercase tracking-[0.32em] text-white/78">
-              Casa Atlántica Mariña · Mariña Lucense
+              Casa Cantábrica Mariña · Mariña Lucense
             </p>
             <h1 className="font-serif text-6xl font-semibold leading-[0.9] tracking-[-0.055em] sm:text-7xl lg:text-8xl">
               Tu refugio frente al Atlántico
