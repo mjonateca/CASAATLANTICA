@@ -6,7 +6,7 @@ export default function Footer() {
       <div className="section-shell grid gap-10 lg:grid-cols-[1fr_1fr]">
         <div>
           <a href="#inicio" className="font-serif text-3xl font-semibold tracking-[-0.03em]">
-            Casa Atlántica Mariña
+            Casa Cantábrica Mariña
           </a>
           <p className="mt-5 max-w-md text-sm leading-7 text-white/64">
             Alojamiento turístico frente al mar en plena costa lucense, a pocos pasos de la Playa de las Catedrales.
@@ -21,7 +21,7 @@ export default function Footer() {
               </a>
             ))}
           </div>
-          <p className="text-sm text-white/44">© Casa Atlántica Mariña. Todos los derechos reservados.</p>
+          <p className="text-sm text-white/44">© Casa Cantábrica Mariña. Todos los derechos reservados.</p>
         </div>
       </div>
     </footer>
