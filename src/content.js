@@ -8,8 +8,8 @@ export const images = {
     alt: 'Sol cayendo sobre la costa atlántica frente a La casa del Mar',
   },
   seaView: {
-    src: '/images/vistas-mar-playa.jpg',
-    alt: 'Vistas directas al Atlántico y a la playa desde La casa del Mar',
+    src: '/images/playacatedralesnueva.jpg',
+    alt: 'Vista soleada al mar Cantábrico y la playa frente a La casa del Mar',
   },
   urbanizationView: {
     src: '/images/vistas-playa-urbanizacion.jpg',
@@ -40,7 +40,7 @@ export const images = {
     alt: 'Dormitorio secundario con cama nido y luz natural',
   },
   cliffs: {
-  src: "/images/playacatedralesnueva.jpeg"
+    src: '/images/playacatedralesnueva.jpg',
     alt: 'Acantilados de la costa lucense junto a la urbanización',
   },
   beachUrbanization: {
