@@ -36,7 +36,7 @@ export default function LocationSection() {
             <div className="absolute -left-10 -top-10 h-40 w-40 rounded-full bg-atlantic/25 blur-3xl" />
             <div className="relative rounded-[2rem] border border-white/12 bg-white/[0.07] p-4 shadow-lift backdrop-blur">
               <div className="overflow-hidden rounded-[1.5rem]">
-                <img src={images.cliffs.src} alt={images.cliffs.alt} className="aspect-[4/3] w-full object-cover" loading="lazy" />
+            <img src={images.hero.src} alt={images.hero.alt} className="aspect-[4/3] w-full object-cover" loading="lazy" />
               </div>
               <div className="grid gap-3 p-3 sm:grid-cols-3">
                 {[
