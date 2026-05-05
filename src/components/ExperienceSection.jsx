@@ -12,7 +12,7 @@ const experiences = [
   {
     title: 'Tardes de playa y paseos por la costa',
     text: 'A pocos pasos, la costa lucense despliega playas, acantilados, senderos y paisajes que cambian con la marea.',
-    image: images.cliffs,
+    image: images.hero,
   },
   {
     title: 'Atardeceres desde la terraza',
