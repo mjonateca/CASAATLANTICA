@@ -14,11 +14,14 @@ const experiences = [
     text: 'A pocos pasos, la costa lucense despliega playas, acantilados, senderos y paisajes que cambian con la marea.',
     image: images.hero,
   },
-  {
-    title: 'Atardeceres desde la terraza',
-    text: 'Cuando cae el sol, la terraza se convierte en el lugar perfecto para mirar al horizonte y dejar que el día termine sin prisa.',
-    image: images.cta,
+ {
+  title: 'Atardeceres desde la terraza',
+  text: 'Cuando cae el sol, la terraza se convierte en el lugar perfecto para mirar al horizonte y dejar que el día termine sin prisa.',
+  image: {
+    src: '/images/Hero-terraza-atardecer.jpg',
+    alt: 'Atardecer desde la terraza frente al mar Cantábrico',
   },
+},
 ];
 
 export default function ExperienceSection() {
