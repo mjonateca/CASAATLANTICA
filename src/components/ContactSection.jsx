@@ -70,7 +70,7 @@ export default function ContactSection() {
               Solicitar disponibilidad
             </button>
             <p className="text-center text-xs leading-5 text-night/50">
-              Envío configurado a {contactEmail}. FormSubmit puede pedir una activación inicial del correo.
+              Te responderemos lo antes posible con disponibilidad y precios.
             </p>
           </form>
         </Reveal>
