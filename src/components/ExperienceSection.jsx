@@ -18,7 +18,7 @@ const experiences = [
   title: 'Atardeceres desde la terraza',
   text: 'Cuando cae el sol, la terraza se convierte en el lugar perfecto para mirar al horizonte y dejar que el día termine sin prisa.',
   image: {
-    src: '/images/Hero-terraza-atardecer.jpg',
+    src: '/images/hero-terraza-atardecer.jpg',
     alt: 'Atardecer desde la terraza frente al mar Cantábrico',
   },
 },
