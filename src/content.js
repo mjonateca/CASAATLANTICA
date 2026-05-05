@@ -84,7 +84,7 @@ export const homeFeatures = [
 ];
 
 export const galleryItems = [
-  { image: images.seaView, caption: 'Vistas directas al Atlántico', className: 'md:col-span-2 md:row-span-2' },
+  { image: images.seaView, caption: 'Vistas directas al Cantábrico', className: 'md:col-span-2 md:row-span-2' },
   { image: images.livingDining, caption: 'Salón luminoso con cocina integrada', className: 'md:col-span-1' },
   { image: images.terrace, caption: 'Terraza sobre el mar', className: 'md:col-span-1' },
   { image: images.mainBedroom, caption: 'Dormitorio principal', className: 'md:col-span-1' },
